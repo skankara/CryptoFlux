@@ -1,0 +1,32 @@
+{
+  "name": "skankara_cryptoflux",
+  "version": "1.0.0",
+  "description": "Provides live crypo exchaneg rates\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001bge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skankara/CryptoFlux.git"
+  },
+  "keywords": [
+    "Crypo",
+    "Currency",
+    "Bit",
+    "Coin",
+    "\u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b["
+  ],
+  "author": "skankara <skankara0259@gmail.com> (https://cloudroomanalytics.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skankara/CryptoFlux/issues"
+  },
+  "homepage": "https://github.com/skankara/CryptoFlux#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}

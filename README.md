@@ -1,8 +1,8 @@
 # CryptoFlux - Node js BackEnd code
 Provides Crypto Currency Live rating from the API
 
-### run - node index.js
-* This will produce the parse result  
+### run - node index.js and hit http://localhost:5000
+* This will produce the parsed result 
   _[ { symbol: 'BTC',
     name: 'Bitcoin',
     price: '9744.42762397',

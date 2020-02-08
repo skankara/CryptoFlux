@@ -1,6 +1,7 @@
 # CryptoFlux - Node js BackEnd code
 Provides Crypto Currency Live rating from the API
 
+### npm install express axios
 ### run - node index.js and hit http://localhost:5000
 * This will produce the parsed result 
   _[ { symbol: 'BTC',
